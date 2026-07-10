@@ -51,7 +51,6 @@ body {
 .nav__link {
   display: block;
   position: relative;
-  align-items: center;
   text-decoration: none;
   color: #000;
   height: 60px;
